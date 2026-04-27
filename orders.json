@@ -1,0 +1,92 @@
+{
+  "orders": [
+    {
+      "order_id": "SHEIN-SA-001",
+      "wa_phone_number": "+966501234001",
+      "customer_name": "Fatima Al-Rashidi",
+      "order_value": 240,
+      "currency": "SAR",
+      "items": ["Casual Summer Dress x1", "Sandals x1"],
+      "delivery_address": "King Fahd Road, Riyadh",
+      "address_flag": "ok",
+      "status": "pending_cod"
+    },
+    {
+      "order_id": "SHEIN-SA-002",
+      "wa_phone_number": "+966502345002",
+      "customer_name": "Noor Al-Zahrani",
+      "order_value": 315,
+      "currency": "SAR",
+      "items": ["Linen Blazer x1", "Wide Leg Pants x2"],
+      "delivery_address": "Tahlia Street, Jeddah",
+      "address_flag": "ok",
+      "status": "pending_cod"
+    },
+    {
+      "order_id": "SHEIN-SA-003",
+      "wa_phone_number": "+966503456003",
+      "customer_name": "Sara Al-Otaibi",
+      "order_value": 178,
+      "currency": "SAR",
+      "items": ["Floral Midi Skirt x1", "Crop Top x2"],
+      "delivery_address": "Olaya District, Riyadh",
+      "address_flag": "ok",
+      "status": "pending_cod"
+    },
+    {
+      "order_id": "SHEIN-SA-004",
+      "wa_phone_number": "+966504567004",
+      "customer_name": "Hana Al-Ghamdi",
+      "order_value": 520,
+      "currency": "SAR",
+      "items": ["Abaya x1", "Hijab Set x3"],
+      "delivery_address": "Al Rawdah, Jeddah",
+      "address_flag": "ok",
+      "status": "pending_cod"
+    },
+    {
+      "order_id": "SHEIN-SA-005",
+      "wa_phone_number": "+966505678005",
+      "customer_name": "Maryam Al-Harbi",
+      "order_value": 290,
+      "currency": "SAR",
+      "items": ["Sports Set x2", "Sneakers x1"],
+      "delivery_address": "Prince Mohammed Bin Abdulaziz Road, Dammam",
+      "address_flag": "ok",
+      "status": "pending_cod"
+    },
+    {
+      "order_id": "SHEIN-SA-006",
+      "wa_phone_number": "+8618101591789",
+      "customer_name": "Brian Al-Harbinfobip",
+      "order_value": 195,
+      "currency": "SAR",
+      "items": ["Floral Blouse x2", "Denim Shorts x1"],
+      "delivery_address": "Al Nuzha District, Riyadh",
+      "address_flag": "ok",
+      "status": "pending_cod"
+    },
+    {
+      "order_id": "SHEIN-SA-007",
+      "wa_phone_number": "+8618101591789",
+      "customer_name": "Brian Al-Harbinfobip",
+      "order_value": 430,
+      "currency": "SAR",
+      "items": ["Oversized Hoodie x1", "Jogger Pants x2", "Baseball Cap x1"],
+      "delivery_address": "Al Nuzha District, Riyadh",
+      "address_flag": "ok",
+      "status": "pending_cod"
+    },
+    {
+      "order_id": "SHEIN-SA-008",
+      "wa_phone_number": "+8618101591789",
+      "customer_name": "Brian Al-Harbinfobip",
+      "order_value": 680,
+      "currency": "SAR",
+      "items": ["Winter Coat x1", "Knit Sweater x3", "Boots x1"],
+      "delivery_address": "Unnamed Road, Industrial Area, Riyadh",
+      "address_flag": "suspicious",
+      "status": "pending_cod"
+    }
+  ]
+}
