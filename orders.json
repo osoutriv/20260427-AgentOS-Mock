@@ -58,7 +58,7 @@
     {
       "order_id": "SHEIN-SA-006",
       "wa_phone_number": "+8618101591789",
-      "customer_name": "Al-Brian Al-Harbinfobip",
+      "customer_name": "Bariq Al-Harbinfobip",
       "order_value": 195,
       "currency": "SAR",
       "items": ["Floral Blouse x2", "Denim Shorts x1"],
@@ -69,7 +69,7 @@
     {
       "order_id": "SHEIN-SA-007",
       "wa_phone_number": "+8618101591789",
-      "customer_name": "Al-Brian Al-Harbinfobip",
+      "customer_name": "Bariq Al-Harbinfobip",
       "order_value": 430,
       "currency": "SAR",
       "items": ["Oversized Hoodie x1", "Jogger Pants x2", "Baseball Cap x1"],
@@ -80,13 +80,47 @@
     {
       "order_id": "SHEIN-SA-008",
       "wa_phone_number": "+8618101591789",
-      "customer_name": "Al-Brian Al-Harbinfobip",
+      "customer_name": "Bariq Al-Harbinfobip",
       "order_value": 680,
       "currency": "SAR",
       "items": ["Winter Coat x1", "Knit Sweater x3", "Boots x1"],
       "delivery_address": "Unnamed Road, Industrial Area, Riyadh",
       "address_flag": "suspicious",
       "status": "pending_cod"
+    },
+    {
+      "order_id": "SHEIN-SA-009",
+      "wa_phone_number": "+8613611950948",
+      "customer_name": "Waleed Al-Qahtani",
+      "order_value": 450,
+      "currency": "SAR",
+      "items": ["Polo Shirt x2", "Chino Pants x1", "Belt x1"],
+      "delivery_address": "King Abdullah Road, Jeddah",
+      "address_flag": "ok",
+      "status": "pending_cod"
+    },
+    {
+      "order_id": "SHEIN-SA-010",
+      "wa_phone_number": "+8613611950948",
+      "customer_name": "Waleed Al-Qahtani",
+      "order_value": 1200,
+      "currency": "SAR",
+      "items": ["Designer Abaya x2", "Luxury Handbag x1", "Sunglasses x1"],
+      "delivery_address": "Al Olaya District, Riyadh",
+      "address_flag": "ok",
+      "status": "pending_cod"
+    },
+    {
+      "order_id": "SHEIN-SA-011",
+      "wa_phone_number": "+8613611950948",
+      "customer_name": "Waleed Al-Qahtani",
+      "order_value": 320,
+      "currency": "SAR",
+      "items": ["Running Shoes x1", "Sports Watch x1"],
+      "delivery_address": "Unmarked Street, Al Batha, Riyadh",
+      "address_flag": "suspicious",
+      "status": "pending_cod"
     }
+
   ]
 }
