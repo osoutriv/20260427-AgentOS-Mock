@@ -2,7 +2,7 @@
   "users": [
     {
       "wa_phone_number": "+8618101591789",
-      "customer_name": "Al-Brian Al-Harbinfobip",
+      "customer_name": "Bariq Al-Harbinfobip",
       "account_age_days": 180,
       "total_orders": 12,
       "failed_deliveries": 3,
@@ -15,6 +15,14 @@
       "total_orders": 25,
       "failed_deliveries": 0,
       "successful_deliveries": 22
+    },
+    {
+      "wa_phone_number": "+8613611950948",
+      "customer_name": "Waleed Al-Qahtani",
+      "account_age_days": 90,
+      "total_orders": 5,
+      "failed_deliveries": 1,
+      "successful_deliveries": 3
     }
   ]
 }
