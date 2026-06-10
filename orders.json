@@ -1,6 +1,18 @@
 {
   "orders": [
     {
+      "order_id": "GSH17Y35Y00MEE4",
+      "wa_phone_number": "+971521109367",
+      "customer_name": "jojo nadia",
+      "order_value": 137.78,
+      "currency": "AED",
+      "items": ["1pc Hearty Haven Casual Loose Fit Straight Leg Jeans x1","Al Najma Elegant Long Sleeve Solid Color Modest Arabian Abayas Robe x1"],
+      "delivery_address": "Al 'Adlah, Abu Dhabi, United Arab Emirates, supermarket",
+      "address_flag": "suspicious",
+      "status": "pending_cod",
+      "estimated_delivery": "2026-06-16 ~ 2026-06-19"
+    }
+    {
       "order_id": "SHEIN-SA-001",
       "wa_phone_number": "+966501234001",
       "customer_name": "Fatima Al-Rashidi",
