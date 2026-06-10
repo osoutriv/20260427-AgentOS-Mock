@@ -1,6 +1,14 @@
 {
   "users": [
     {
+      "wa_phone_number": "+971521109367",
+      "customer_name": "jojo nadia",
+      "account_age_days": 365,
+      "total_orders": 2,
+      "failed_deliveries": 2,
+      "successful_deliveries": 0
+    }
+    {
       "wa_phone_number": "+8618101591789",
       "customer_name": "Bariq Al-Harbinfobip",
       "account_age_days": 180,
